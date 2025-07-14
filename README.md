@@ -24,7 +24,7 @@ Test using the suggested scenario questions:
 - "Every spring I start sneezing and get a stuffy nose—is this allergies?"
 - "What can I do at home to reduce my allergy symptoms?"
 ## 👥 Authors & Contributors
-- **Doreen Yuan** — 2025
+- **Doreen Yuan** — July 2025
 ## ⚠ Important Disclaimer
 This project is for educational research only. The chatbot is not intended for actual clinical use or diagnosis. Please consult healthcare professionals for personal medical advice.
 ## 📜 License

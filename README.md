@@ -13,7 +13,6 @@ The system prompt guides the chatbot to:
 ## 🎯 Use Case Goals
 - Help users recognize typical allergic rhinitis symptoms
 - Guide users on at-home management strategies
-- Emphasize## 🖥 Deployment & Testing
 ## 🖥 Deployment & Testing
 ### Installation
 1. Deploy AnythingLLM with Ollama model `llama3:latest`

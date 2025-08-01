@@ -26,5 +26,8 @@ Test using the suggested scenario questions:
 - **Doreen Yuan** — July 2025
 ## ⚠ Not Medical Diagnosis Disclaimer
 This project is for educational research only. The chatbot is not intended for actual clinical use or diagnosis. Please consult healthcare professionals for personal medical advice.
+## 🔒 Data Privacy & Safety
+- Absolutely no collection or storage of real users’ sensitive personal data
+- Crisis-related queries (e.g., self-harm, violence) should be flagged and redirected to appropriate emergency support resources
 ## 📜 License
 This repository is distributed for educational purposes under the terms of the assignment guidelines.

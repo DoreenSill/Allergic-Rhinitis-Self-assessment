@@ -24,7 +24,7 @@ Test using the suggested scenario questions:
 - "What can I do at home to reduce my allergy symptoms?"
 ## 👥 Authors & Contributors
 - **Doreen Yuan** — July 2025
-## ⚠ Important Disclaimer
+## ⚠ Not Medical Diagnosis Disclaimer
 This project is for educational research only. The chatbot is not intended for actual clinical use or diagnosis. Please consult healthcare professionals for personal medical advice.
 ## 📜 License
 This repository is distributed for educational purposes under the terms of the assignment guidelines.
